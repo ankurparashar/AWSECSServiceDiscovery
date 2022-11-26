@@ -1,7 +1,7 @@
 ## AWS ECS Service Discovery
 
 ### Project Overview
-This project is used as a submodule in the SpringBoot applications. Also, this is non excecuatable project contains AWS ECS ServiceDiscovery SDK Imeplementation.
+This project is used as a submodule in the SpringBoot applications. Also, this is non executable project contains AWS ECS ServiceDiscovery SDK implementation.
 
 Scenario: Consider a service “service-a” which has an API which requires some data from “service-b”.
 
